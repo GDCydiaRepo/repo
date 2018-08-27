@@ -1,0 +1,9 @@
+Origin: GuanDa's Repo
+Label: GuanDa's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 插件自用,如有問題請來信告知
+Icon: file://CydiaIcon.png

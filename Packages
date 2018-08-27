@@ -1,0 +1,29 @@
+Package: guanda.procam5
+Name: ProCam 5 
+Version: 10.5.8
+Architecture: iphoneos-arm
+Description: ProCam 5 打包
+Depends: guanda.procam5, firmware (>=11.0)
+Icon: file:///Applications/ProCam.app/AppIcon-260x60@2x.png
+Filename: ./debs/guanda.procam5-10.5.8.deb
+Conflicts: guanda.procam5
+Maintainer: GuanDa <flame30920@gmail.com>
+Author: GuanDa <flame30920@gmail.com>
+Size: 13256
+MD5sum: b8b84905287390d203a189907c59b367
+Homepage: https://guandada.ddns.net/repo
+Section: 軟體
+
+Package: guanda.test
+Name: test 
+Version: 10.5.8
+Architecture: iphoneos-arm
+Description: test
+Depends: firmware (>=11.0)
+Filename: ./debs/test.deb
+Conflicts: guanda.test
+Maintainer: GuanDa <flame30920@gmail.com>
+Author: GuanDa <flame30920@gmail.com>
+Size: 13256
+MD5sum: e56be42944560b287644eb043a9b0697
+Section: test
